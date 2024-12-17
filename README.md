@@ -56,7 +56,7 @@ Os integrantes do grupo trabalharam em conjunto para implementar as diferentes f
   - Igor Almeida
   - Guilherme Campos
   - Aulo Cezar
-  - [Preencher Nome]
+  - Maria Clara Durães
   - [Preencher Nome]
   - [Preencher Nome]
   - [Preencher Nome]
